@@ -1,0 +1,170 @@
+ 
+
+.jumbotron {
+  
+background-image:url('dept.jpg');
+
+height: 200px;
+  
+background-repeat: no-repeat;
+  
+background-size: cover;
+
+}
+
+
+.jumbotron .header_all {
+ 
+ background: #f5da81;
+ opacity: 0.6;
+ filter: alpha(opacity=40);
+ height: 120px;
+
+}
+
+
+.jumbotron .header_all .title1
+{ 
+    margin-left: 230px;
+    width: 1000px;
+    position: center;
+    height: 80px; 
+    text-align:center;
+}
+.jumbotron .header_all .logo_img
+{
+    margin-left:20px;
+    margin-top:0px;
+    float:left;
+    width:100px;
+    height:80px;
+}
+
+/* title */
+.navbar-default .container-fluid .navbar-brand {
+    color: white;
+}
+.navbar-default .container-fluid .navbar-brand:hover,
+.navbar-default .container-fluid .navbar-brand:focus {
+    color: #2a9363;
+    height: 10px;
+}
+
+#styleh1
+{
+    font-size:50px;
+    color: black;
+}
+#styleh2
+{
+    font-size:30px;
+    color: black;
+}
+#col_link
+{
+    margin-top:10px;
+    background: #EFFFE2;
+    width:200px;
+    height:50px;
+}
+#col_link_s
+{
+    float:left;
+}
+ul#col_link_1, ul#col_link_1 li
+{ 
+    margin: 0; 
+    padding: 0;
+    list-style: none;
+}
+
+ul#col_link_1 li a
+{ 
+    letter-spacing: 0.1em;
+    font: normal 100% 'lucida sans unicode', arial, sans-serif;
+    text-decoration:none;
+    text-align: center;
+    color: #777;
+    padding-left:30px;
+}
+#display_image{
+    float:left;
+    margin-top:20px;
+    margin-left:10px;
+}
+.login_form {
+    width: 350px;
+    height:250px;
+    margin-left:0px;
+    margin-top:0px;
+    padding: 25px;
+    background-color: rgba(250,250,250,0.5);
+    border-radius: 30px;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.2), 
+        inset 0px 1px 0px 0px rgba(250, 250, 250, 0.5);
+    border: 3px solid rgba(0, 0, 0, 0.3);
+}
+
+.login_form input:not([type=submit]) {
+    width:250px;
+    padding: 5px;
+    margin-right: 10px;
+    border: 2px solid rgba(0, 0, 0, 0.3);
+    border-radius: 3px;
+    box-shadow: inset 0px 1px 3px 0px rgba(0, 0, 0, 0.1), 
+        0px 1px 0px 0px rgba(250, 250, 250, 0.5) ;
+}
+
+.login_form input[type=submit] {
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    background: #29425E;
+    color: #fff;
+    padding: 5px 15px;
+    margin-right: 0;
+    margin-top: 20px;
+    border-radius: 3px;
+
+}
+ul#login_form1, ul#login_form1 li
+{ 
+    margin: 0; 
+    padding: 0;
+    list-style: none;
+}
+label {
+    display: block;
+    color: #999;
+}
+
+#footer
+{
+    font: normal 100% 'lucida sans unicode', arial, sans-serif;
+    height: 45px;
+    margin-top:0px;
+    text-align: center; 
+    background: #29425E;
+    color: #FFF;
+    letter-spacing: 0.1em;
+    position:relative;
+
+}
+
+
+label
+{
+    display: block;
+    color: #999;
+}
+#login_register
+{
+    height: 445px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    color: #678;
+    margin-left:900px;
+    width:500px;
+    margin-top:0px;
+
+}.glyphicon {
+
+}
