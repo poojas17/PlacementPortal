@@ -1,0 +1,86 @@
+.top
+{
+height: 250px;
+position:fixed;
+width:100%;
+}
+
+.jumbotron {
+  
+background-image:url('dept.jpg');
+
+height: 200px;
+  
+background-repeat: no-repeat;
+  
+background-size: cover;
+position:fixed;
+width:100%;
+
+}
+
+.header_all {
+ 
+ background: #d3d3d3;
+ 
+ height: 120px;
+ margin-top:-20px;
+
+}
+
+
+.header_all .title1
+{ 
+    margin-left: 200px;
+    width: 1000px;
+    position: center;
+    height: 80px; 
+    text-align:center;
+}
+.header_all .logo_img
+{
+    margin-left:20px;
+    margin-top:0px;
+    float:left;
+    width:100px;
+    height:80px;
+}
+
+/* title */
+.navbar-default .container-fluid .navbar-brand {
+    color: white;
+}
+.navbar-default .container-fluid .navbar-brand:hover,
+.navbar-default .container-fluid .navbar-brand:focus {
+    color: #2a9363;
+    height: 10px;
+}
+
+#styleh1
+{
+    font-size:50px;
+    color: black;
+}
+
+
+#Algo {padding-top:170px; min-height:5px;color: #000000; background-color: #ffffff;}
+  #ds {padding-top:220px;height:750px;color: #000000; background-color: #ffffff;}
+  #ll {padding-top:220px;height:750px;color: #000000; background-color: #ffffff;}
+  #c {padding-top:220px;height:750px;color: #000000; background-color: #ffffff;}
+  #sc{padding-top:220px;height:750px;color: #000000; background-color: #ffffff;}
+  #sv {padding-top:220px;height:750px;color: #000000; background-color: #ffffff;}
+  #arr {padding-top:220px;height:750px;color: #000000; background-color: #ffffff;}
+  #basics {padding-top:220px;height:750px;color: #000000; background-color: #ffffff;}
+  
+  #cpp {padding-top:220px;height:750px;color: #000000; background-color: #ffffff;}
+  #inl {padding-top:220px;height:750px;color: #000000; background-color: #ffffff;}
+  #tp {padding-top:220px;height:750px;color: #000000; background-color: #ffffff;}
+  #fnco {padding-top:220px;height:750px;color: #000000; background-color: #ffffff;}
+  .scroll
+{
+    position: fixed;
+    display: block;
+    top: 170px;
+    background-size:cover;
+    width:100%;
+}
